@@ -1,4 +1,4 @@
-from fastapi import FastAPI
+import FastAPI
 import pandas as pd 
 import json
 lista = []
